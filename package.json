@@ -9,7 +9,6 @@
   "author": "Simonas Valencius <simonas.va@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "bops": "^1.0.0",
     "buffer": "^5.0.6",
     "clone": "^2.1.1",
     "egoroof-blowfish": "^1.0.1",
