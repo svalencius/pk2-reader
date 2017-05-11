@@ -1,0 +1,35 @@
+{
+  "name": "pk2-reader",
+  "version": "1.0.0",
+  "description": "React powered website to read and extract files from PK2 format used by Korean game company Joymax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simonas Valencius <simonas.va@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bops": "^1.0.0",
+    "buffer": "^5.0.6",
+    "clone": "^2.1.1",
+    "egoroof-blowfish": "^1.0.1",
+    "int64-buffer": "^0.1.9",
+    "mcrypt": "^0.1.12",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.5.4",
+    "react-dropzone": "^3.13.1",
+    "react-file-download": "^0.3.4",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.4.1",
+    "hexdump-js": "^0.1.0",
+    "typedarray-to-buffer": "^3.1.2"
+  }
+}
